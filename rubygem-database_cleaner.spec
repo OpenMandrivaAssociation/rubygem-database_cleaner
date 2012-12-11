@@ -49,3 +49,10 @@ rm -rf %{buildroot}
 %doc %{ruby_gemdir}/gems/%{oname}-%{version}/VERSION.yml
 %{ruby_gemdir}/cache/%{oname}-%{version}.gem
 %{ruby_gemdir}/specifications/%{oname}-%{version}.gemspec
+
+
+%changelog
+* Mon Dec 20 2010 Rémy Clouard <shikamaru@mandriva.org> 0.5.2-1mdv2011.0
++ Revision: 623462
+- import rubygem-database_cleaner
+
