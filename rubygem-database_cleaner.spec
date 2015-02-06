@@ -2,7 +2,7 @@
 
 Name:       rubygem-%{oname}
 Version:    0.5.2
-Release:    %mkrel 1
+Release:    2
 Summary:    Strategies for cleaning databases
 Group:      Development/Ruby
 License:    MIT
