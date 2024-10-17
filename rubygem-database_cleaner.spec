@@ -6,7 +6,7 @@ Release:    2
 Summary:    Strategies for cleaning databases
 Group:      Development/Ruby
 License:    MIT
-URL:        http://github.com/bmabey/database_cleaner
+URL:        https://github.com/bmabey/database_cleaner
 Source0:    http://rubygems.org/downloads/%{oname}-%{version}.gem
 BuildRoot:  %{_tmppath}/%{name}-%{version}-%{release}-root
 Requires:   rubygems
